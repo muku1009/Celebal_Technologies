@@ -1,1 +1,22 @@
-# Deploying Machine Learning Models with Streamlit
+ 🌸 Iris Flower Classification with Streamlit
+
+This project showcases the complete machine learning workflow on the classic Iris dataset – from training to deployment using Streamlit.
+
+ 🚀 Features
+- Classifies Iris flowers into Setosa, Versicolor, or Virginica
+- Real-time predictions using user input
+- Feature comparison and model explanation
+- Interactive and lightweight UI
+
+ 🔗 Live App
+[Click here to access the deployed Streamlit App](https://iris-classifier-muskan2003.streamlit.app/)
+
+ 📁 Tech Stack
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas, NumPy
+- Matplotlib & Seaborn
+
+ 👩‍💻 Developed by
+Muskan – Data Science Intern @ Celebal Technologies Pvt. Ltd.
