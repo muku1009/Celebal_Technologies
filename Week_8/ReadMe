@@ -1,3 +1,22 @@
-RAG Q&A chatbot
+🚀 RAG Q&A Chatbot – Loan Approval Assistant
 
-RAG Q&A chatbot using document retrieval and generative AI for intelligent response generation (can use any light model from hugging face or a license llm(opneai, claude, grok, gemini) if free credits available
+This project is a chatbot that answers questions related to loan approvals using RAG (Retrieval-Augmented Generation). It searches through loan data and uses Gemini AI to give accurate responses.
+
+# Features:
+
+✨Uses FAISS for document search
+✨Gemini API for generating answers
+✨Built with Streamlit
+✨Based on a loan approval dataset
+
+# How to Run:
+
+✨Install dependencies: pip install -r requirements.txt
+✨Build index: python retriever/build_vector_store.py
+✨Run the app: streamlit run app/streamlit_app.py
+
+# Live App:
+👉 https://chatbot-project-muskan2003.streamlit.app/
+
+🚀 Built during Week 8 of Celebal Technologies Internship
+
